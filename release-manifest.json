@@ -1,0 +1,27 @@
+{
+  "version": "0.8.28",
+  "releaseDate": "2026-09-16",
+  "minRequiredVersion": "0.8.0",
+  "title": "v0.8.28 客户列表 11 列重构与分页版",
+  "changelog": [
+    "客户列表重构为 11 列商业标准表格：新增客户号(KH-0001)与电话独立成列，导购与设计师各占一列",
+    "新增分页(每页 20/50/100)，几百条客户也能快速翻页",
+    "最近动态面板自带滚动并显示条数",
+    "修复全新安装时演示客户无客户号的问题",
+    "修复桌面端底部内容不可见、无法滚动的问题"
+  ],
+  "updateType": "full",
+  "windows": {
+    "setupUrl": "https://gitee.com/kezhong195/light-smart-crm-release/releases/download/v0.8.28/%E5%AE%A2%E6%88%B7%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9FCRM_v0.8.28_x64%E5%AE%89%E8%A3%85%E5%8C%85.exe",
+    "portableUrl": "https://gitee.com/kezhong195/light-smart-crm-release/releases/download/v0.8.28/%E5%AE%A2%E6%88%B7%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9FCRM_v0.8.28_%E4%BE%BF%E6%90%BA%E7%89%88.exe",
+    "filename": "客户全生命周期CRM_v0.8.28_x64安装包.exe",
+    "sha256": "57ffcb2f3aae8824da7f67c7833ddbb29340e2badd7d3847b8c1870b416ec794",
+    "portableSha256": "f96c7a1d1e36f685ace697d6311d04e746598c2eb71be5e465dbe28e8ceda313",
+    "sizeMb": 2.3
+  },
+  "android": {
+    "apkUrl": "https://gitee.com/kezhong195/light-smart-crm-release/releases/download/v0.8.28/%E5%AE%A2%E6%88%B7%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9FCRM_v0.8.28.apk",
+    "filename": "客户全生命周期CRM_v0.8.28.apk",
+    "sha256": ""
+  }
+}
